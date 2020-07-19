@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" height="500" width="1500">
+  <g clip-path="url(#clip0)">
+    <rect fill="#1E1E1E" height="500" width="1500"/>
+    <rect fill="#1E1E1E" height="500" width="1500"/>
+    <rect fill="#DF2525" transform="rotate(-37 286 622)" height="759.9" width="1614.3" y="622" x="286"/>
+    <circle fill="#fff" r="183" cy="225" cx="750"/>
+    <path fill="#fff" d="M600 435l3 9v1a27 27 0 010 2h1a24 24 0 010-3l3-9h5v26h-4v-17a29 29 0 011-6h-1v2a30 30 0 01-1 3l-2 7h-3l-2-7a51 51 0 01-2-5 204 204 0 011 6v17h-5v-26h6zm16 20v-2l2-2 2-1 4-1h5v-2l-2-2-2-1-3 1-1 1h-5l1-2 2-2 3-1h6l3 2 1 2 1 2v14h-4v-4h-1c0 1 0 2-2 3l-4 1-4-1c-2-1-2-3-2-5zm4 0l1 2 3 1 3-1 2-3v-2h-5l-3 1-1 2zm23-20v14h3l5-8h5l-6 10 6 10h-5l-5-8h-3v8h-5v-26h5zm17 22h7v-12h-6v-4h11v16h5v4h-17v-4zm6-21l1-2 2-1 2 1 1 2-1 2h-4l-1-2zm15 5h5v4c0-2 1-3 2-3l3-1 5 2 2 5v13h-5v-12l-1-3-2-1-3 1-1 3v12h-5v-20zm22 8v-4l1-2 3-2h2l4 1 2 3v-4h4v22l-2 2-2 2h-9v-4h5l3-1 1-2v-4l-2 3-4 1-2-1-3-1-1-3v-6zm4 3l1 3 3 1 3-1 1-3v-3l-1-3-3-1-3 1-1 3v3zm38 3l1-2 1-2 3-1 3-1h5v-2l-1-2-3-1-2 1-2 1h-4l1-2 2-2 2-1h7l2 2 2 2 1 2v14h-5v-4l-2 3-4 1-5-1-2-5zm5 0l1 2 2 1 4-1 1-3v-2h-5l-2 1-1 2zm16-14h4l1 13a22 22 0 010 3v2h1v-2a221 221 0 000-3l2-13h4l2 13a21 21 0 010 3v2h1a44 44 0 010-5l1-13h4l-3 20h-5l-2-13a16 16 0 010-2v-2a35 35 0 010 4l-2 13h-6l-2-20zm23 8l1-4 1-2 3-2h7a7 7 0 015 8v3h-13v2l1 3 4 1 2-1 2-1h4a6 6 0 01-3 4 10 10 0 01-5 1h-4l-3-2-1-2-1-3v-5zm9-5l-4 2-1 3h9l-1-3-3-2zm12 12h5l1 1 2 1h2l2-1 1-2c0-1-1-2-3-2h-3l-5-2-1-4 2-5 5-1h2l5 1 3 4h-5l-1-1-2-1h-2l-2 1-1 2c0 1 1 2 3 2h3l5 2 2 4-2 5-6 1h-2l-5-1-3-4zm31 5h-4l-3-2-1-2-1-3v-5l1-4 1-2 3-2h7a7 7 0 015 4v12a7 7 0 01-5 4h-3zm-4-7l1 2 3 1 3-1 1-2v-5l-1-3-3-1-3 1-1 3v5zm20-13v3l1-2 3-1 2 1 1 2 1-2 2-1 3 1 1 4v15h-4v-15l-1-2-2 2v15h-3v-15l-2-2-2 2v15h-4v-20h4zm18 8l1-4 2-2 2-2h7a7 7 0 015 8v3h-12v2l1 3 3 1 2-1 2-1h4a6 6 0 01-3 4 10 10 0 01-5 1h-4l-2-2-2-2-1-3v-5zm9-5l-3 2-1 3h8l-1-3-3-2zm39-3v-6h5v6h7v4h-7v11l2 1h5v4h-5l-5-2-2-4v-10h-5v-4h5zm17-6h5v6a20 20 0 010 4c0-2 1-3 2-3l3-1c2 0 4 0 5 2l2 5v13h-5v-12l-1-3-2-1-3 1-1 3v12h-5v-26zm22 22h8v-12h-7v-4h11v16h6v4h-18v-4zm6-21l1-2 2-1h1l2 1v4h-5l-1-2zm16 5h4v4c0-2 1-3 2-3l3-1 5 2 2 5v13h-5v-12l-1-3-2-1-3 1-1 3v12h-4v-20zm21 8v-4l2-2 2-2h3l3 1 2 3v-4h5v19l-1 3-2 2-2 2h-9v-4h5l3-1 1-2v-4l-2 3-3 1-3-1-2-1-2-3v-6zm4 3l1 3 3 1 3-1 1-3v-3l-1-3-3-1-3 1-1 3v3zm17 4h5l1 1 2 1h2l2-1 1-2c0-1-1-2-3-2h-3l-5-2-1-4c0-2 0-4 2-5l5-1h2l5 1 2 4h-4l-1-1-2-1h-2l-2 1-1 2c0 1 1 2 3 2h3l5 2 2 4-2 5-6 1h-2l-5-1-3-4zm43-9v-4h6v-2-3l1-1 2-2h9v4h-6l-1 1-1 1v2h8v4h-8v14h-4v-14h-6zm31 14h-4l-2-2-2-2-1-3v-5l1-4 2-2 2-2h7a7 7 0 015 4v12l-2 2-3 2h-3zm-4-7l1 2 3 1 3-1 1-2v-5l-1-3-3-1-3 1-1 3v5zm22-13v4h1l1-3 4-1 5 2 2 5v2h-5v-1l-1-3-3-1-3 1-1 3v12h-4v-20h4zm37 14l1-2 2-2 2-1 3-1h5v-2l-1-2-3-1-2 1-2 1h-4a6 6 0 013-4l2-1h7l2 2 2 2 1 2v14h-5v-4l-2 3-4 1-5-1-2-5zm5 0l1 2 2 1 4-1 1-3v-2h-5l-2 1-1 2zm16-14h4l1 13v1a34 34 0 011 4v-2a213 213 0 001-3l1-13h4l2 13v5h1a53 53 0 010-4v-1l2-13h3l-2 20h-6l-1-13-1-1v-1-2 4l-2 13h-5l-3-20zm23 8l1-4a7 7 0 014-4h7a7 7 0 015 4v7h-13v2l2 3 3 1 2-1 2-1h4a7 7 0 01-3 4 10 10 0 01-5 1h-4l-3-2-1-2-1-3v-5zm9-5c-2 0-3 1-3 2-1 0-2 1-2 3h9l-1-3-3-2zm13 12h4l1 1 3 1h1l3-1v-2c0-1-1-2-3-2h-2l-5-2-2-4 2-5 6-1h1l5 1 3 4h-5l-1-1-2-1h-1l-3 1-1 2c0 1 1 2 3 2h3l5 2 2 4-2 5-6 1h-1l-6-1-2-4zm30 5h-4l-2-2-2-2-1-3v-5l1-4 2-2 2-2h7a7 7 0 015 4v12a7 7 0 01-5 4h-3zm-4-7l1 2 3 1 3-1 1-2v-5l-1-3-3-1-3 1-1 3v5zm20-13v3l1-2 3-1 2 1 1 2 1-2 2-1 3 1 2 4v15h-4v-15l-2-2-2 2v15h-3v-15l-2-2-2 2v15h-4v-20h4zm18 8l1-4 2-2 2-2h8a7 7 0 014 4l1 4v3h-13v2l1 3 3 1 3-1 1-1h4l-1 2-1 2a10 10 0 01-6 1h-3l-3-2-2-2-1-3v-5zm9-5l-3 2-1 3h8l-1-3-3-2zm35-3h4v4h1l1-3 4-1h3l2 2 1 2 1 4v5l-1 3-1 2-2 2h-3l-4-1-1-2h-1v1a18 18 0 011 2v6h-5v-26zm5 8v5l1 2 2 1 3-1 1-3v-4l-1-3-3-1-2 1-1 3zm16 0l1-4a7 7 0 014-4h7a7 7 0 015 4v7h-12v2l1 3 3 1 2-1 2-1h4a7 7 0 01-3 4 10 10 0 01-5 1h-4l-2-2-2-2-1-3v-5zm9-5l-3 2-1 3h8l-1-3-3-2zm21 17h-3l-3-2-2-2v-8-4l2-2 3-2h7l3 2 1 2 1 4v5l-1 3a7 7 0 01-4 4h-4zm-4-7l1 2 3 1 3-1 1-2v-5l-1-3-3-1-3 1-1 3v5zm18-13h4v4l2-3 4-1h3l2 2 1 2 1 4v5l-1 3-1 2-2 2h-3l-4-1-2-2a11 11 0 010 2v7h-4v-26zm4 8v5l1 2 3 1 3-1 1-3v-4l-1-3-3-1-3 1-1 3zm16-10v-4h11v21l2 1h6v4h-9a6 6 0 01-3-4l-1-3v-15h-6zm23 10v-4l2-2 3-2h7a7 7 0 014 4l1 4v3h-13v2l1 3 3 1 3-1 1-1h5l-2 2-1 2a10 10 0 01-6 1h-3l-3-2-2-2v-8zm8-5l-3 2-1 3h8l-1-3-3-2zm19-9h5v5l-1 13h-3l-1-13v-5zm0 24v-2l2-1h1l2 1 1 2-1 2h-5v-2z"/>
+    <path fill="#fff" d="M1285 268h4v11h-4v-11zm10 0h4v11h-4v-11zm-21-10l-9 9v32h10v9l9-9h7l16-16v-25h-33zm30 23l-7 7h-7l-7 7v-7h-8v-26h29v19z"/>
+    <path fill="#fff" d="M1329 302v-5h5l3-1 1-2v-14h-8v-4h13v18a8 8 0 01-3 5l-2 2-4 1h-5zm8-32l1-1 2-1 2 1 1 1-1 2-2 1-2-1-1-2zm13 0h5v6a24 24 0 010 2v1h-1 1l2-3 3-1 5 2 2 6v13h-5v-13l-1-3-3-1-2 1-1 3v13h-5v-26zm30 26l-3-1-3-1-2-2-1-3h5l1 2 3 1 3-1 1-3-1-3-3-2h-3v-4l4-4a26 26 0 012-2h-1-10v-3h16v4l-6 5a10 10 0 01-1 1h3l3 2 1 3 1 3-1 3a7 7 0 01-4 4l-4 1zm12-20h5l4 10a10 10 0 010 3l1 1v-1a56 56 0 011-3l3-10h5l-9 26h-5l3-8-8-18zm22 0h5l3 10 1 2a14 14 0 010 2h1a22 22 0 010-4l4-10h5l-10 26h-4l2-8-7-18z"/>
+    <path fill="#fff" d="M1286 328a180 180 0 00-16 1l-5 3-3 5-1 6a170 170 0 001 26l3 5 5 3 6 1a174 174 0 0026-1l5-3 3-5 1-6a179 179 0 00-1-26l-3-5-5-3-6-1h-10zm0 5a178 178 0 0115 1l3 1 1 3 1 5 1 10-1 10-1 5-1 3-3 1-5 1a176 176 0 01-25-1l-3-1-2-3v-5l-1-10 1-10v-5l2-3 3-2h5l10-1v1zm0 7a13 13 0 100 26 13 13 0 000-26zm0 21a8 8 0 110-16 8 8 0 010 16zm16-21a3 3 0 11-6 0 3 3 0 016 0z"/>
+    <path fill="#fff" d="M1329 372v-5h6a4 4 0 003-3v-14h-8v-4h13v18l-1 3a7 7 0 01-4 4l-3 1h-6zm9-32v-1l2-1h1l2 1v3l-2 1h-1l-2-1v-2zm13 0h4v6a16 16 0 010 2v1l2-3 3-1 5 2 2 6v13h-5v-13-3l-3-1-3 1-1 3v13h-4v-26zm29 26l-3-1-3-1a7 7 0 01-2-5h4l1 2 3 1 3-1 2-3c0-2-1-3-2-3 0-1-1-2-3-2h-3v-4l4-4a23 23 0 013-2h-11v-3h15v4l-5 5a10 10 0 01-2 1h3l3 2 2 3v6a7 7 0 01-5 4l-4 1zm12-20h5l4 10 1 2v2a22 22 0 011-4l4-10h5l-10 26h-5l3-8-8-18zm22 0h5l4 10a10 10 0 010 3l1 1v-1a56 56 0 011-3l3-10h5l-9 26h-5l3-8-8-18zm22 0h5l3 10 1 2a14 14 0 010 2h1a22 22 0 010-4l4-10h5l-10 26h-4l2-8-7-18zm21 0h5l4 10a10 10 0 011 3v0a56 56 0 011-3l4-10h4l-9 26h-5l3-8-8-18z"/>
+    <path fill="#fff" d="M1276 139l-1-1h-1v11h1l2-1v-5l-1-4zm-15-11v30h50v-30h-50zm18 22l-5 1h-3v-15h3c3 0 4 0 5 2l1 5-1 7zm10-12h-5v4h3v3h-3v4h5v2h-7v-7-8h7v3-1zm10 12l-2 1h-1l-2-5-2-7-1-3h3l3 10 1-5 2-5h3l-4 14z"/>
+    <path fill="#fff" d="M1329 162v-5h5a4 4 0 004-3v-14h-8v-4h13v18a8 8 0 01-2 5l-3 2-3 1h-6zm9-32v-1l2-1h1l2 1v3l-2 1h-1l-2-1v-2zm13 0h4v9l2-3 3-1 5 2 2 6v13h-5v-13l-1-3-2-1-3 1-1 3v13h-4v-26zm29 26l-3-1-3-1a7 7 0 01-3-5h5l1 2 3 1 3-1 2-3c0-2-1-3-2-3l-3-2h-3v-4l4-4a23 23 0 013-2h-11v-3h15v4l-5 5a7 7 0 01-1 0l-1 1h3l3 2 1 3 1 3-1 3-1 3-3 1-4 1zm12-20h5l4 10a10 10 0 011 3v1a22 22 0 011-4l4-10h5l-10 26h-5l3-8-8-18z"/>
+    <path fill="#fff" d="M1299 75v-4l-4 2 4 2zm2 3v1l-14 9a1 1 0 01-2 0l-14-9V68v-1l14-9a1 1 0 012 0l14 9v11zm-15-30a25 25 0 100 50 25 25 0 000-50zm0 22l-5 3 5 3 5-3-5-3zm1 8v7l11-7-5-3-6 3zm-13 0l11 7v-7l-6-3-5 3zm24-10l-11-7v7l6 3 5-3zm-13 0v-7l-11 7 5 3 6-3zm-12 3v4l4-2-4-2z"/>
+    <path fill="#fff" d="M1329 92v-5h5a4 4 0 004-3V70h-8v-4h13v18a8 8 0 01-2 5l-3 2-3 1h-6zm9-32v-1l2-1h1l2 1v3l-2 1h-1l-2-1v-2zm13 0h4v9l2-3 3-1 5 2 2 6v13h-5V73l-1-3-2-1-3 1-1 3v13h-4V60zm29 26l-3-1-3-1a7 7 0 01-3-5h5l1 2 3 1 3-1 2-3c0-2-1-3-2-3l-3-2h-3v-4l4-4a23 23 0 013-2h-11v-3h15v4l-5 5a7 7 0 01-1 0l-1 1h3l3 2 1 3 1 3-1 3-1 3-3 1-4 1zm12-20h5l4 10a10 10 0 011 3v1a22 22 0 011-4l4-10h5l-10 26h-5l3-8-8-18z"/>
+    <g clip-path="url(#clip1)">
+      <path fill="#fff" d="M1311 198l-6 1c2-1 4-3 5-6-2 2-5 2-7 3a10 10 0 00-18 7l1 2c-9 0-17-4-22-10l-1 5c0 3 2 6 5 8l-5-1c0 5 3 9 8 10a10 10 0 01-4 0c1 4 5 7 9 7a21 21 0 01-15 5c5 3 10 4 16 4 19 0 29-15 29-29v-1l5-5z"/>
+    </g>
+    <path fill="#fff" d="M1329 232v-5h5l3-1 1-2v-14h-8v-4h13v18a8 8 0 01-3 5l-2 2-4 1h-5zm8-32l1-1 2-1 2 1 1 1-1 2-2 1-2-1-1-2zm13 0h5v6a24 24 0 010 2v1h-1 1l2-3 3-1 5 2 2 6v13h-5v-13l-1-3-3-1-2 1-1 3v13h-5v-26zm30 26l-3-1-3-1-2-2-1-3h5l1 2 3 1 3-1 1-3-1-3-3-2h-3v-4l4-4a26 26 0 012-2h-1-10v-3h16v4l-6 5a10 10 0 01-1 1h3l3 2 1 3 1 3-1 3a7 7 0 01-4 4l-4 1zm12-20h5l4 10a10 10 0 010 3l1 1v-1a56 56 0 011-3l3-10h5l-9 26h-5l3-8-8-18zm22 0h5l3 10 1 2a14 14 0 010 2h1a22 22 0 010-4l4-10h5l-10 26h-4l2-8-7-18z"/>
+    <g transform="translate(549 -975) scale(1.34105)">
+      <path class="bear__fur" d="M243 894c0 61-36 106-94 106-55 0-92-45-92-106s38-86 91-86 95 25 95 86z"/>
+      <path class="bear__muzzle" d="M212 958c0 20-29 39-63 39-35 0-61-19-61-39s26-33 61-33 63 13 63 33z"/>
+      <path class="bear__nose" d="M181 932c0 7-19 24-30 24s-32-17-32-24c0-8 20-13 31-13 12 0 31 5 31 13z"/>
+      <ellipse class="bear__outer-ear" cx="68.3" cy="827.7" rx="23.8" ry="23.1"/>
+      <path class="bear__inner-ear" d="M85 826a17 16 0 00-17-14 17 16 0 00-16 16 17 16 0 0016 16 17 16 0 001 0l3-4a66 66 0 0111-12z"/>
+      <ellipse class="bear__outer-ear" ry="23.1" rx="23.8" cy="827.7" cx="-231.2" transform="scale(-1 1)"/>
+      <path class="bear__inner-ear" d="M215 826a17 16 0 0116-14 17 16 0 0117 16 17 16 0 01-17 16 17 16 0 01-1 0l-2-4a66 66 0 00-11-12z"/>
+      <path class="bear__cap-strap" d="M148 815c-14 0-26 1-38 4v11a199 199 0 0180 1v-11c-13-3-27-5-42-5z"/>
+      <path class="bear__small-cap-strap" d="M165 816a16 8 0 015 5 16 8 0 01-6 6l26 4v-11z"/>
+      <path class="bear__cap" d="M148 789c-43 0-76 20-83 64 12-11 28-19 45-23 0 0-2-12 10-16 15-4 19-4 28-4 10 0 15 0 30 4s12 17 12 17c18 5 32 11 45 22-8-46-43-64-87-64z"/>
+      <circle class="bear__eye" cx="97.2" cy="894.1" r="11.2"/>
+      <circle class="bear__eye" cy="894.1" cx="201.9" r="11.2"/>
+      <path style="fill:none;stroke:#e9afaf;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" class="bear__eyebrows" d="M97 864a21 21 0 01-7 16 21 21 0 01-16 5m130-21a21 21 0 006 16 21 21 0 0016 5"/>
+      <path class="shades-frame" d="M77 855c-6 0-13 0-23 2l-14 3 2 15 7 2c3 5 1 10 2 18 3 28 12 34 26 35 8 1 23 3 33-1s19-10 25-18c6-9 6-18 10-26 3-5 8-4 10 0 3 8 4 17 10 26 6 8 15 14 24 18 11 4 26 2 34 1 14-1 23-7 26-35 1-8-2-13 2-18l7-2 2-15-15-3c-15-3-23-2-34-2h-13l-25 4c-8 2-15 7-23 6-8 0-15-5-23-6l-25-4z"/>
+      <path style="fill:#333333" class="lens" d="M85 860c-10 1-25 1-28 13-3 15-3 32 6 45 7 11 23 9 35 9 19-1 35-16 40-34 2-8 4-14 1-19-6-10-20-12-31-13z"/>
+      <path class="shades-dot" d="M56 864a4 2 0 01-4 2 4 2 0 01-4-2 4 2 0 014-1 4 2 0 014 1"/>
+      <path style="fill:#333333" class="lens" d="M215 860c10 1 24 1 28 13 3 15 3 32-6 45-7 11-23 9-35 9-19-1-35-16-40-34-2-8-4-14-1-19 6-10 20-12 31-13z"/>
+      <path class="shades-dot" d="M244 864a4 2 0 004 2 4 2 0 004-2 4 2 0 00-4-1 4 2 0 00-4 1"/>
+      <g clip-path="url(#spec-left)">
+        <use height="100%" width="100%" xlink:href="#code-block"/>
+        <use height="100%" width="100%" xlink:href="#code-block" y="284"/>
+      </g>
+      <g clip-path="url(#spec-right)">
+        <use height="100%" width="100%" xlink:href="#code-block" transform="translate(104)"/>
+        <use height="100%" width="100%" xlink:href="#code-block" transform="translate(104)" y="284"/>
+      </g>
+      <path class="lens__shine" d="M101 861l-19 66h17l18-65zm-12-1h-4l-3 1-18 59 6 5z"/>
+    </g>
+  </g>
+  <defs id="defs48">
+    <clipPath id="clip0">
+      <rect id="rect41" fill="#fff" height="500" width="1500"/>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect id="rect44" transform="translate(1261 188)" fill="#fff" height="50" width="50"/>
+    </clipPath>
+    <clipPath id="spec-left">
+      <path d="M85 860c-10 1-25 1-28 13-3 15-3 32 6 45 7 11 23 9 35 9 19-1 35-16 40-34 2-8 4-14 1-19-6-10-20-12-31-13l-23-1z" fill="#333" id="path5554"/>
+    </clipPath>
+    <clipPath id="spec-right">
+      <path d="M215 860c10 1 24 1 28 13 3 15 3 32-6 45-7 11-23 9-35 9-19-1-35-16-40-34-2-8-4-14-1-19 6-10 20-12 31-13l23-1z" fill="#333" id="path5557"/>
+    </clipPath>
+    <pattern height="1" width="1" patternContentUnits="objectBoundingBox" id="pattern0">
+      <use id="use38" transform="scale(.005)" xlink:href="#image0"/>
+    </pattern>
+    <style type="text/css" id="style5503">
+      svg { --fur: #662900; --ear: #e4b89b; --cap-strap--large: #f00; --cap-strap--small: #900; --cap: #0d0d0d; --dots: rgba(242,242,242,0.6); --frame: #000; --shine: rgba(242,242,242,0.35); --lens: #595959; --code-one: rgba(128,230,25,0.5); --code-two: rgba(229,230,25,0.5); --code-three: rgba(230,25,128,0.5); --code-four: rgba(25,195,230,0.5); } .code-block { -webkit-animation: read 1s infinite linear; animation: read 1s infinite linear; } .code-block rect { fill: var(--code-one); } .code-block rect:nth-of-type(5) { fill: var(--code-four); } .code-block rect:nth-of-type(8), .code-block rect:nth-of-type(9) { fill: var(--code-two); } .code-block rect:nth-of-type(12) { fill: var(--code-three); } .bear__fur, .bear__outer-ear { fill: var(--fur); } .bear__inner-ear, .bear__muzzle { fill: var(--ear); } .bear__cap-strap { fill: var(--cap-strap--large); } .bear__small-cap-strap { fill: var(--cap-strap--small); } .bear__cap { fill: var(--cap); } .lens { fill: var(--lens); } .lens__shine { fill: var(--shine); } .shades-dot { fill: var(--dots); } .bear__nose, .shades-frame { fill: var(--frame); } @-webkit-keyframes read { to { -webkit-transform: translate(0, -283.5px); transform: translate(0, -283.5px); } } @keyframes read { to { -webkit-transform: translate(0, -283.5px); transform: translate(0, -283.5px); } }
+    </style>
+    <g class="code-block" id="code-block">
+      <rect ry="0" y="862" x="60" height="7.5" width="74" id="rect5505"/>
+      <rect ry="0" y="874" x="96" height="7.5" width="28" id="rect5507"/>
+      <rect width="54" height="7.5" x="60" y="886" ry="0" id="rect5509"/>
+      <rect ry="0" y="897" x="60" height="7.5" width="74" id="rect5511"/>
+      <rect width="56" height="7.5" x="78" y="909" ry="0" id="rect5513"/>
+      <rect ry="0" y="921" x="83" height="7.5" width="51" id="rect5515"/>
+      <rect width="51" height="7.5" x="73" y="932" ry="0" id="rect5517"/>
+      <rect ry="0" y="944" x="72" height="7.5" width="62" id="rect5519"/>
+      <rect width="74" height="7.5" x="60" y="956" ry="0" id="rect5521"/>
+      <rect ry="0" y="967" x="50" height="7.5" width="84" id="rect5523"/>
+      <rect width="64" height="7.5" x="60" y="979" ry="0" id="rect5525"/>
+      <rect ry="0" y="991" x="60" height="7.5" width="74" id="rect5527"/>
+      <rect width="41" height="7.5" x="93" y="1003" ry="0" id="rect5529"/>
+      <rect ry="0" y="1014" x="66" height="7.5" width="58" id="rect5531"/>
+      <rect width="58" height="7.5" x="56" y="1026" ry="0" id="rect5533"/>
+      <rect ry="0" y="1038" x="50" height="7.5" width="74" id="rect5535"/>
+      <rect width="46" height="7.5" x="88" y="1049" ry="0" id="rect5537"/>
+      <rect ry="0" y="1061" x="105" height="7.5" width="19" id="rect5539"/>
+      <rect width="38" height="7.5" x="96" y="1073" ry="0" id="rect5541"/>
+      <rect ry="0" y="1084" x="73" height="7.5" width="51" id="rect5543"/>
+      <rect ry="0" y="1096" x="88" height="7.5" width="26" id="rect5545"/>
+      <rect width="56" height="7.5" x="68" y="1108" ry="0" id="rect5547"/>
+      <rect ry="0" y="1120" x="100" height="7.5" width="24" id="rect5549"/>
+      <rect width="74" height="7.5" x="50" y="1131" ry="0" id="rect5551"/>
+    </g>
+  </defs>
+</svg>
