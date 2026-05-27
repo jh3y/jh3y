@@ -1,8 +1,8 @@
 <svg class="gem" width="1500" height="500" viewBox="0 0 1500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
   <style>
-    .gem { color: hsl(0 0% 50%); }
-    @media(prefers-color-scheme: dark) { .gem { color: red; } }
+    .gem { color: hsl(0 0% 20%); }
+    @media(prefers-color-scheme: dark) { .gem { color: hsl(0 0% 98%); } }
     .gem__bottom {
       transform-box: fill-box;
       transform-origin: center;
